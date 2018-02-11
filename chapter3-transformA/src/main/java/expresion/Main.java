@@ -9,6 +9,7 @@ public class Main {
 	public static void main(String[] args) throws Exception {
 	
 		System.out.println("firstchange");
+		System.out.println("aloo");
 		CamelContext context=new DefaultCamelContext();
 		
 		context.addRoutes(new Ex1RouteBuilder());
