@@ -10,7 +10,9 @@ public class Main {
 	
 		System.out.println("firstchange");
 		System.out.println("alooaa");
-		System.out.println("inca unabbba");
+
+		System.out.println("inca unaaaaaaaabbbcgg");
+
 		CamelContext context=new DefaultCamelContext();
 		
 		context.addRoutes(new Ex1RouteBuilder());
