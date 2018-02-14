@@ -13,6 +13,7 @@ public class Main {
 
 		System.out.println("inca unaaaaaaaabbbcggkkkkkkkk");
 
+		System.out.println("inca unaaaaaaaabbbcggkkkkkkkk");
 		CamelContext context=new DefaultCamelContext();
 		
 		context.addRoutes(new Ex1RouteBuilder());
