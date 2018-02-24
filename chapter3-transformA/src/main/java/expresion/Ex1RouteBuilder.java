@@ -30,6 +30,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						System.out.println("maria");
 						
 						System.out.println("albert");
+						System.out.println("tomat");
 						return (T) new StringBuilder(reverse).reverse().toString();
 					}
 				}
