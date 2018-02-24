@@ -24,6 +24,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						System.out.println("ce face mah");
 						System.out.println();
 						System.out.println("asdsa");
+						Systen.out.println("masina");
 						return (T) new StringBuilder(reverse).reverse().toString();
 					}
 				}
