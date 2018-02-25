@@ -22,6 +22,7 @@ public class Main {
 		System.out.println("exalto bahh");
 		
 		System.out.println("ultima modificare in elcispe");
+		System.out.println("alaaa");
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();

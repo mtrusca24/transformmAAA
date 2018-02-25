@@ -35,6 +35,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						System.out.println("modificare dupa git hub");
 						System.out.println("o modicare in eclispe");
 						System.out.println("exalton");
+						System.out.println("bala");
 						return (T) new StringBuilder(reverse).reverse().toString();
 					}
 				}
