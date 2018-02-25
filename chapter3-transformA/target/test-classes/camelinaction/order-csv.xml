@@ -28,7 +28,7 @@
             <from uri="file://src/test/resources?noop=true&amp;fileName=order.csv"/>
             <unmarshal><csv/></unmarshal>
             <split>
-                <!-- use simple language to refer to the body -->
+                <!-- use simple language to refer to the body aloooo -->
                 <simple>body</simple>
                 <to uri="mock:queue.csv"/>
             </split>
