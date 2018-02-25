@@ -20,7 +20,7 @@ public class Main {
 		
 		context.addRoutes(new Ex1RouteBuilder());
 		
-		
+		System.out.println("ultima modificare in elcispe");
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
