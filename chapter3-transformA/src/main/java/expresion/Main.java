@@ -19,7 +19,7 @@ public class Main {
 		CamelContext context=new DefaultCamelContext();
 		
 		context.addRoutes(new Ex1RouteBuilder());
-		
+		System.out.println("exalto bahh");
 		
 		context.start();
 		
