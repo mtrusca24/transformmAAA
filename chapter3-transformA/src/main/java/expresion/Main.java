@@ -19,6 +19,7 @@ public class Main {
 		CamelContext context=new DefaultCamelContext();
 		
 		context.addRoutes(new Ex1RouteBuilder());
+		System.out.println("exalto bahh");
 		
 		System.out.println("ultima modificare in elcispe");
 		context.start();
