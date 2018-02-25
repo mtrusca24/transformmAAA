@@ -6,6 +6,8 @@ public class Proba {
    System.out.println("se poate"); 
    System.out.println("aloo"); 
    //eu
+	  System.out.println("bahh"); 
+	  //bah
   // sa vedem  
   }
   
