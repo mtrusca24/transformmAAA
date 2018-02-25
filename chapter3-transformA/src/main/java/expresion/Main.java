@@ -24,6 +24,7 @@ public class Main {
 		System.out.println("ultima modificare in elcispe");
 		System.out.println("alaaa");
 		System.out.println("red");
+		System.out.println("green");
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
