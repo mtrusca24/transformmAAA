@@ -15,6 +15,7 @@ public class Main {
 
 		System.out.println("inca unaaaaaaaabbbcggkkkkkkkk");
 		System.out.println("modificare in main");
+	        System.out.println("modifiacare in main dingithug");
 		CamelContext context=new DefaultCamelContext();
 		
 		context.addRoutes(new Ex1RouteBuilder());
