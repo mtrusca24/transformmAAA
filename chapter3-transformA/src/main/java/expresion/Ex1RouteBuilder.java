@@ -49,7 +49,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						System.out.println("fahhh");
 
 						
-						System.out.println("alpiddd bataie");
+						System.out.println("alpiddd bataie ");
 
 						return (T) new StringBuilder(reverse).reverse().toString();
 					}
