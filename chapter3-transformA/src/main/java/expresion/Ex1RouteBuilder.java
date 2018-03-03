@@ -19,6 +19,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 					public <T> T evaluate(Exchange arg0, Class<T> arg1) {
 						
 						String reverse=arg0.getIn().getBody(String.class);
+						System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhh");
 						System.out.println("bahhhh");
 						System.out.println("aloo");
 						System.out.println("ce face mah");
@@ -28,7 +29,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						System.out.println("masina");
 						System.out.println("marius");
 						System.out.println("maria");
-						
+						System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhh");
 						System.out.println("albert");
 						System.out.println("tomat");
 						System.out.println("am modificat iar");
@@ -44,7 +45,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						System.out.println("turciaaaa ia bataie");
 						
 
-						
+						System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhh");
 						
 
 						System.out.println("franta ia bataie");
