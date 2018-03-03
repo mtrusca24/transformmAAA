@@ -38,7 +38,12 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						System.out.println("bala");
 						System.out.println("bluee");
 						System.out.println("yellow");
+						
+						System.out.println("turciaaaa ia bataie");
+						
+						
 						return (T) new StringBuilder(reverse).reverse().toString();
+						
 					}
 				}
 				
