@@ -52,7 +52,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						System.out.println("finia bataie");
 						System.out.println("alooo");
 
-
+						System.out.println("alooo");
 						return (T) new StringBuilder(reverse).reverse().toString();
 					}
 				}
