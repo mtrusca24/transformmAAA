@@ -63,6 +63,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 							System.out.println("eu");
 						System.out.println("a 90 modificare pe git");
 						System.out.println("neata");
+						System.out.println("zi");
 						return (T) new StringBuilder(reverse).reverse().toString();
 					}
 				}
