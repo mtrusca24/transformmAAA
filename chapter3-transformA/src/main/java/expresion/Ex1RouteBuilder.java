@@ -62,6 +62,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 							System.out.println("prima modificare pe git");
 							System.out.println("eu");
 						System.out.println("a 90 modificare pe git");
+						System.out.println("neata");
 						return (T) new StringBuilder(reverse).reverse().toString();
 					}
 				}
