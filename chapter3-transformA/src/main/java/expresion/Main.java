@@ -25,6 +25,7 @@ public class Main {
 		System.out.println("alaaa");
 		System.out.println("red");
 		System.out.println("green");
+			System.out.println("a doua modficare");
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
