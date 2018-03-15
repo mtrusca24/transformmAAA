@@ -31,6 +31,7 @@ public class Main {
 		System.out.println("a 40 modificare pe git");
 		System.out.println("aaaaa");
 		System.out.println("bb");//tare
+		System.out.println("zzzzz");//tare
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
