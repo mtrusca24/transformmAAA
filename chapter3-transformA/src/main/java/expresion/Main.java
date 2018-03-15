@@ -26,6 +26,7 @@ public class Main {
 		System.out.println("red");
 		System.out.println("green");
 			System.out.println("a doua modficare");
+		System.out.println("a 40 modificare pe git");
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
