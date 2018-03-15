@@ -1,4 +1,8 @@
 are mere
 albsrtru
 verde
+<<<<<<< HEAD
 galben
+=======
+negru
+>>>>>>> branch 'master' of https://github.com/mtrusca24/transformmAAA.git
