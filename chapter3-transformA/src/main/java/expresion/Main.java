@@ -29,6 +29,7 @@ public class Main {
 		System.out.println("a 40 modificare pe git");
 		System.out.println("seara");
 		System.out.println("a 40 modificare pe git");
+		System.out.println("aaaaa");
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
