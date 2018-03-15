@@ -64,7 +64,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 						System.out.println("a 90 modificare pe git");
 						System.out.println("neata");
 						System.out.println("zi");
-						System.out.println("a 40 modificare pe git");////casa//mare
+						System.out.println("a 40 modificare pe git");////casa//mare//gggg
 						return (T) new StringBuilder(reverse).reverse().toString();
 					}
 				}
