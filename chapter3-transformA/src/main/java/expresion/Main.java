@@ -32,6 +32,7 @@ public class Main {
 		System.out.println("aaaaa");
 		System.out.println("bb");//tare
 		System.out.println("zzzzz");//tare
+		System.out.println("cccccc");//tare
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
