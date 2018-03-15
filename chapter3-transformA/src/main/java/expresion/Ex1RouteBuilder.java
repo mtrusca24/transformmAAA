@@ -59,6 +59,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 						System.out.println("alooo");
 						System.out.println("alooo");
 						System.out.println("qqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqlooo");
+							System.out.println("prima modificare pe git");
 						return (T) new StringBuilder(reverse).reverse().toString();
 					}
 				}
