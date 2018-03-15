@@ -52,7 +52,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 						System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhh");
 
 						System.out.println("franta ia bataie");
-
+                                                System.out.println("3");
 						System.out.println("finia bataie");
 						System.out.println("alooo");
 
@@ -67,6 +67,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 						System.out.println("a 40 modificare pe git");////casa//mare//gggg
 						System.out.println("11111111111111ificare pe git");////casa//mare//gggg
 						System.out.println("a vvvvvvvvv0 modificare pe git");////casa//mare//gggg
+						System.out.println("a vvvvvvvvv2 modificare pe git");////casa//mare//gggg
 						return (T) new StringBuilder(reverse).reverse().toString();//biro
 					}
 				}
