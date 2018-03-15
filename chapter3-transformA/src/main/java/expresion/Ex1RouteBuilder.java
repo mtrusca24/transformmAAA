@@ -65,7 +65,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 						System.out.println("neata");
 						System.out.println("zi");
 						System.out.println("a 40 modificare pe git");////casa//mare
-						return (T) new StringBuilder(reverse).reverse().toString();
+						return (T) new StringBuilder(reverse).reverse().toString();//biro
 					}
 				}
 				
