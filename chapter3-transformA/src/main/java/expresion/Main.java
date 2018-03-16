@@ -36,7 +36,7 @@ public class Main {
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
-		template.sendBody("direct:start", "mariuys");//cico
+		template.sendBody("direct:start", "mariuys");//cico animal
 		
 		Thread.sleep(2000);
 		
