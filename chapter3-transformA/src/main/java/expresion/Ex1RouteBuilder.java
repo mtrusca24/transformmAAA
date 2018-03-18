@@ -69,7 +69,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 						System.out.println("a vvvvvvvvv0 modificare pe git");////casa//mare//gggg
 						System.out.println("a vvvvvvvvv5 modificare pe git");////casa//mare//gggg
 						System.out.println("a vvvvvvvvv2 modificare pe git");////casa//mare//gggg
-						System.out.println("sunt aici si acolo ");
+						System.out.println("sunt aici si acolo hhhh ");
 						return (T) new StringBuilder(reverse).reverse().toString();//tuu si Roxana
 					}
 				}
