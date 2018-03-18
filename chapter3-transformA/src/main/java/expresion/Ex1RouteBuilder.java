@@ -71,7 +71,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 						System.out.println("a vvvvvvvvv2 modificare pe git");////casa//mare//gggg
 						System.out.println("sunt aici si acolo hhhh wwwaaabb ");
 						System.out.println("sunt aici si acolo hhhh wwwaaaddd q");
-						System.out.println("sunt aici si acolo hhhh wwwaaaddd w");
+						System.out.println("sunt aici si acolo hhhh wwwaaaddd wzz");
 						return (T) new StringBuilder(reverse).reverse().toString();//tuu si Roxana
 					}
 				}
