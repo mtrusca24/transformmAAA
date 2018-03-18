@@ -41,6 +41,9 @@ public class Main {
 		template.sendBody("direct:start", "mariuys");//cico animal si caine si elefant si taxaalooocccccccc
 		template.sendBody("direct:start", "mariuys");//cico animal si caine si elefant si taxaaloooaaaaaaaaaaaaahaia
 		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswwwwwwaa");
+		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswwwwwwddd");
+		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswwwwwwddd");
+		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswwwwwwddd");
 		Thread.sleep(2000);
 		
 		context.stop();
