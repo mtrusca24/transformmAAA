@@ -18,7 +18,8 @@ public class Main {
 	        System.out.println("modifiacare in main dingithug");
 		CamelContext context=new DefaultCamelContext();
 		
-		context.addRoutes(new Ex1RouteBuilder());
+		//context.addRoutes(new Ex1RouteBuilder());
+		
 		System.out.println("exalto bahh");
 		
 		System.out.println("ultima modificare in elcispe");
@@ -32,7 +33,7 @@ public class Main {
 		System.out.println("aaaaa");
 		System.out.println("bb");//tare
 		System.out.println("zzzzz");//tare
-		System.out.println("cccccc");//tare
+		System.out.println("cccccc");//f
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
