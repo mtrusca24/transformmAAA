@@ -40,7 +40,7 @@ public class Main {
 		template.sendBody("direct:start", "mariuys");//cico
 		template.sendBody("direct:start", "mariuys");//cico animal si caine si elefant si taxaalooocccccccc
 		template.sendBody("direct:start", "mariuys");//cico animal si caine si elefant si taxaaloooaaaaaaaaaaaaahaia
-		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   www");
+		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswww");
 		Thread.sleep(2000);
 		
 		context.stop();
