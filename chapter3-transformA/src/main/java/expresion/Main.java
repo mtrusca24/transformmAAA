@@ -38,7 +38,7 @@ public class Main {
 		
 		ProducerTemplate template=context.createProducerTemplate();
 		template.sendBody("direct:start", "mariuys");//cico
-		template.sendBody("direct:start", "mariuys");//cico animal si caine si elefant si javra
+		template.sendBody("direct:start", "mariuys");//cico animal si caine si elefant
 		
 		Thread.sleep(2000);
 		
