@@ -72,7 +72,7 @@ System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 						System.out.println("sunt aici si acolo hhhh wwwaaabb ");
 						System.out.println("sunt aici si acolo hhhh wwwaaaddd q");
 						System.out.println("sunt aici si acolo hhhh wwwaaaddd wqqqq");
-						return (T) new StringBuilder(reverse).reverse().toString();//tuu si Roxanaaaaaaqqq
+						return (T) new StringBuilder(reverse).reverse().toString();//tuu si Roxanaaaaaa
 					}
 				}
 				
