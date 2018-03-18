@@ -43,7 +43,7 @@ public class Main {
 		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswwwwwwaa");
 		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswwwwwwddd");
 		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswwwwwwddd");
-		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswwwwwwdddwzz");
+		System.out.println("eu sunt in franta si italia si suedia si norvegiaqqqqq   ssswwwwwwdddw");
 		Thread.sleep(2000);
 		
 		context.stop();
