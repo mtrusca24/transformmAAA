@@ -18,10 +18,9 @@ public class Ex1RouteBuilder extends RouteBuilder {
 					
 					public <T> T evaluate(Exchange arg0, Class<T> arg1) {
 						
-						
-						
 						String reverse=arg0.getIn().getBody(String.class);
 						System.out.println(" God's way");
+						System.out.println("your way");
 						System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhh");
 						System.out.println("bahhhh");
 						System.out.println("aloo");
