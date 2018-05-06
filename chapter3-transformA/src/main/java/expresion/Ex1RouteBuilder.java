@@ -84,6 +84,14 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						//mingeee
 						
 						// bahhhh
+						
+						
+						//hai mahh  aloo
+						
+						
+						//mingeee
+						
+						// bahhhh
 						String reverse=arg0.getIn().getBody(String.class);
 						System.out.println(" Marius's way");
 						System.out.println(" Jesus's way");
