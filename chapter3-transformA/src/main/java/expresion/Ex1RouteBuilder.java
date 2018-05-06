@@ -26,7 +26,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						//doi
 						//trei
 						//al treilea commit
-						
+						 
 						// capatane
 						//hei haiducuu
 						String reverse=arg0.getIn().getBody(String.class);
