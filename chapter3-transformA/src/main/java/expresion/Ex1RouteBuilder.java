@@ -61,9 +61,6 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						//noi modificari
 						
 						//revert commit
-						
-						
-						//hai mahh
 						String reverse=arg0.getIn().getBody(String.class);
 						System.out.println(" Marius's way");
 						System.out.println(" Jesus's way");
