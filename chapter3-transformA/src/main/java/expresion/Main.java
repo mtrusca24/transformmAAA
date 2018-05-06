@@ -12,7 +12,7 @@ public class Main {
 		System.out.println("alooaa");
 
 		System.out.println("inca unaaaaaaaabbbcggkkkkkkkk");
-
+       // al doilea
 		System.out.println("inca unaaaaaaaabbbcggkkkkkkkk");
 		System.out.println("modificare in main");
 	        System.out.println("modifiacare in main dingithug");
