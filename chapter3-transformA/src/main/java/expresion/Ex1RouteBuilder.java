@@ -53,6 +53,8 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						// se poate iar remote
 						
 						//noi modificari
+						
+						// mai sa fie
 						String reverse=arg0.getIn().getBody(String.class);
 						System.out.println(" Marius's way");
 						System.out.println(" Jesus's way");
