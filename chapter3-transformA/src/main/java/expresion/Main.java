@@ -7,7 +7,7 @@ import org.apache.camel.impl.DefaultCamelContext;
 public class Main {
 
 	public static void main(String[] args) throws Exception {
-	
+	// bere
 		System.out.println("firstchange");
 		System.out.println("alooaa");
 
