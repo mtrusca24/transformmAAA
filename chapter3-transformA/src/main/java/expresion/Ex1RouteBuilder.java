@@ -69,7 +69,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 						System.out.println("romania va castiga");
 						
 						System.out.println("turciaaaa ia bataie");
-						
+						// braziliaaaaa
 System.out.println("turciaaaa ia bataieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
 System.out.println("bahhhhhhhhhhhhhhhhhhhhhhhhhhhaaaaaaaaaaaaaaaaaaaaaaaa");
 						System.out.println("turciaaaa ia bataieeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee");
