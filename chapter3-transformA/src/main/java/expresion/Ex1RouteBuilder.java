@@ -14,6 +14,8 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		.transform(
 				
 				// cola dola
+				
+				// bobo
 				new Expression() {
 					
 					public <T> T evaluate(Exchange arg0, Class<T> arg1) {
