@@ -13,7 +13,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		from("direct:start")
 		.transform(
 				
-				
+				// cola dola
 				new Expression() {
 					
 					public <T> T evaluate(Exchange arg0, Class<T> arg1) {
