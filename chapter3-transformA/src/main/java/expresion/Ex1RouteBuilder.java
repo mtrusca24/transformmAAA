@@ -16,6 +16,8 @@ public class Ex1RouteBuilder extends RouteBuilder {
 				// cola dola
 				
 				// bobo
+				
+				// ciocolata
 				new Expression() {
 					
 					public <T> T evaluate(Exchange arg0, Class<T> arg1) {
