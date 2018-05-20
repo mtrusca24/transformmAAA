@@ -42,7 +42,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 			
 			// frate cazacu
 			
-			//am baut cola
+			//dacia
 				new Expression() {
 					
 					public <T> T evaluate(Exchange arg0, Class<T> arg1) {
