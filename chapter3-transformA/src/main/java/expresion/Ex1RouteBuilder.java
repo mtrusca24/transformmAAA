@@ -38,6 +38,9 @@ public class Ex1RouteBuilder extends RouteBuilder {
 			
 			
 			//roxana
+			
+			
+			// frate cazacu
 				new Expression() {
 					
 					public <T> T evaluate(Exchange arg0, Class<T> arg1) {
