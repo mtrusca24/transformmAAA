@@ -8,7 +8,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 
 	@Override
 	public void configure() throws Exception {
-		
+		//mergeeee
 		
 		from("direct:start")
 		.transform(
