@@ -8,7 +8,14 @@ public class Ex1RouteBuilder extends RouteBuilder {
 
 	@Override
 	public void configure() throws Exception {
-		//mergeeee
+		
+		
+		//my changes in eclipse
+		
+		
+		
+		
+		
 		
 		from("direct:start")
 		.transform(
