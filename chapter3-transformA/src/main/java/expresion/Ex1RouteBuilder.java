@@ -5,7 +5,7 @@ import org.apache.camel.Expression;
 import org.apache.camel.builder.RouteBuilder;
 
 public class Ex1RouteBuilder extends RouteBuilder {
-
+// my changes in GitHub
 	@Override
 	public void configure() throws Exception {
 		
