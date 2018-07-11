@@ -16,7 +16,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		///reverttttttttttttttttttttttttttttttttttttttttttttttll
 		
 		// franta-craotia
-		 
+		 //ggg
 		
 		from("direct:start")
 		.transform(
