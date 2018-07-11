@@ -10,7 +10,7 @@ public class Main {
 	//locooo
 		System.out.println("firstchange");
 		System.out.println("alooaa");
-
+//hjkglkgjl
 		System.out.println("inca unaaaaaaaabbbcggkkkkkkkk");
        // al doilea
 		System.out.println("inca unaaaaaaaabbbcggkkkkkkkk");
