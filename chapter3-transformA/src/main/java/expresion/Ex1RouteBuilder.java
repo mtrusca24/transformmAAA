@@ -18,7 +18,6 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		// franta-craotia
 		 //lll
 		 //ggg
-		//kkk
 		 
 		from("direct:start")
 		.transform(
