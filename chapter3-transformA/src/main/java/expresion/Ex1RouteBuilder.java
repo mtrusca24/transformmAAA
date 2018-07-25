@@ -9,6 +9,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 	@Override
 	public void configure() throws Exception {
 		
+		//alina e nervoasa
 		
 		//my changes in eclipse
 		//croatia
@@ -18,6 +19,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		// franta-craotia
 		 //lll
 		 //ggg
+		//kkk
 		 
 		from("direct:start")
 		.transform(
