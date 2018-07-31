@@ -18,6 +18,8 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		// franta-craotia
 		 //lll
 		 //ggg
+		
+		//aloo roxana
 		 
 		from("direct:start")
 		.transform(
