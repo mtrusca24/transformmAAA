@@ -1,4 +1,4 @@
-package camelinaction;
+package expresion;
 
 import org.apache.camel.CamelContext;
 import org.apache.camel.ProducerTemplate;
@@ -6,7 +6,7 @@ import org.apache.camel.RoutesBuilder;
 import org.apache.camel.builder.RouteBuilder;
 import org.apache.camel.impl.DefaultCamelContext;
 
-public class Main {
+public class euuu {
 
 	public static void main(String[] args) throws Exception {
 	
@@ -17,10 +17,10 @@ public class Main {
 			@Override
 			public void configure() throws Exception {
 				
-				from("direct:a")
-			    .marshal(new ReverseDataFormat())
-			    .log("${body}");
-				
+				//from("direct:a")
+			   // .marshal(new ReverseDataFormat())
+			  //  .log("${body}");
+			///	
 			}
 			
 		});
