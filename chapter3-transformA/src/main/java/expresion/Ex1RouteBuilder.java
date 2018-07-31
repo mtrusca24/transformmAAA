@@ -20,7 +20,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		 //lll
 		 //ggg
 		//kkk
-		 
+		 // ce faci mariaaaa
 		from("direct:start")
 		.transform(
 				
