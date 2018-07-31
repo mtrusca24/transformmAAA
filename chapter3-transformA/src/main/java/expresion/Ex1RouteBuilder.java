@@ -30,6 +30,9 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		// bah
 		
 		//ccc
+		
+		
+		// am sters
 		 
 		from("direct:start")
 		.transform(
