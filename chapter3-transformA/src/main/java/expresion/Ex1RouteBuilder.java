@@ -20,7 +20,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		 //ggg
 		
 		//aloo roxana
-		 
+		 //fofi
 		from("direct:start")
 		.transform(
 				
