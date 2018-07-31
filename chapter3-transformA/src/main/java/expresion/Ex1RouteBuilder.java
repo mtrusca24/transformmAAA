@@ -20,7 +20,7 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		 //ggg
 		
 		//aloo roxana
-		
+		//fofi
 		// a doau modificare
 		 
 		from("direct:start")
