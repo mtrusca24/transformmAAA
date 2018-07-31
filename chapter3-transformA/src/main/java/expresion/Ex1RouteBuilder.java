@@ -22,6 +22,8 @@ public class Ex1RouteBuilder extends RouteBuilder {
 		//aloo roxana
 		//fofi
 		// a doau modificare
+		
+		// eu si tu
 		 
 		from("direct:start")
 		.transform(
