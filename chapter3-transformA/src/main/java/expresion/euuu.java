@@ -26,6 +26,7 @@ public class euuu {
 		});
 		
 		// am sters ce am scri sin master
+		// ce facem aici
 		
 		context.start();
 		
