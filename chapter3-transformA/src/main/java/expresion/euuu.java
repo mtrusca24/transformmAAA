@@ -29,7 +29,7 @@ public class euuu {
 		// ce facem aici
 		
 		context.start();
-		
+		// bah cef aci
 		ProducerTemplate template=context.createProducerTemplate();
 		
 		template.sendBody("direct:a", "marius");
