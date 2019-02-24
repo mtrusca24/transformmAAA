@@ -24,7 +24,7 @@ public class euuu {
 			}
 			
 		});
-		
+		//gg
 		// am sters ce am scri sin master
 		// ce facem aici
 		
