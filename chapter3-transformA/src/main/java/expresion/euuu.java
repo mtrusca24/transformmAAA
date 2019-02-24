@@ -30,7 +30,7 @@ public class euuu {
 		// ce facem aici
 		
 		context.start();
-		// bah cef aci
+		// bah cef aci // sa crezi tu
 		ProducerTemplate template=context.createProducerTemplate();
 		
 		template.sendBody("direct:a", "marius");
