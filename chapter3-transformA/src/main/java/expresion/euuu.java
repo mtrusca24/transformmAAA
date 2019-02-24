@@ -25,6 +25,8 @@ public class euuu {
 			
 		});
 		
+		// Asta scriu initial in master
+		
 		context.start();
 		
 		ProducerTemplate template=context.createProducerTemplate();
