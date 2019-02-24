@@ -25,7 +25,7 @@ public class euuu {
 			
 		});
 		
-		// Asta scriu initial in master
+		// am sters ce am scri sin master
 		
 		context.start();
 		
