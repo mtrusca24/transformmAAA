@@ -32,7 +32,7 @@ public class euuu {
 		context.start();
 		// bah cef aci // sa crezi tu kala mare
 		ProducerTemplate template=context.createProducerTemplate();
-		
+		// alo ce faci
 		template.sendBody("direct:a", "marius");
 		
 		context.stop();
