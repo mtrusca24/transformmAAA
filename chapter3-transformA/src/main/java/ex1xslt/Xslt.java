@@ -21,7 +21,7 @@ public class Xslt {
 				.to("xslt://camelinaction/transform.xsl")
 				.to("file:eu");
         
-               // ala ca sazpaap
+               // ala ca sazpaap MMM
 				
 	}
 			
